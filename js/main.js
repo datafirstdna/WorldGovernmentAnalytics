@@ -5,7 +5,7 @@ const bounds = [
 ];
 
 var center = [-26.15201784411545, 35.843022330935014];
-var zoom = 1;
+var zoom = 2;
 mapboxgl.accessToken = "pk.eyJ1IjoidmluY2Vuem8tbSIsImEiOiJjbGQ3bHFqMnEwdzR4M29tbWRsbjIwZTFqIn0.5u7trm5vT8LxangZowzgEA";
 const map = new mapboxgl.Map({
   container: "map",
