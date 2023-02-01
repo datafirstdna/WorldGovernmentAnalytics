@@ -75,7 +75,7 @@ var popup = new mapboxgl.Popup({
 });
 
 map.on("load", function () {
-  d3.csv("data/Upwork Dataset-4.csv").then(function (dataCsv) {
+  d3.csv("data/Upwork Dataset-5.csv").then(function (dataCsv) {
     console.log(dataCsv);
     var statesCsv = [];
     for (var i = 0; i < dataCsv.length; i++) {
