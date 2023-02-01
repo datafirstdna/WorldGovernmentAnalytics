@@ -129,7 +129,7 @@ a {
   background-color: #a0a0a0db;
   border-width: 0px;
   padding: 25px 20px;
-  overflow-y:scroll;
+  overflow-y:vertical;
 }
 
 .square{
